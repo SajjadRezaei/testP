@@ -1,18 +1,11 @@
 console.log("this a test");
 console.log("this a test");
 console.log("this a test");
+
+dd("asas");
+
 console.log("this a test");
-console.log("sajjad0");
-     console(console("sajjaasasasas."));
 
-
-
-
-
-
-
-console.log("sajjad1");
-console.log("sajjad2");
 console.log("sajjad3");
 
 
